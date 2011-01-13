@@ -1,0 +1,5 @@
+c:\users\bkrauska\documents\visual studio 2010\Projects\JsonSerializer_01\JsonSerializer_01\bin\Debug\JsonSerializer_01.exe
+c:\users\bkrauska\documents\visual studio 2010\Projects\JsonSerializer_01\JsonSerializer_01\bin\Debug\JsonSerializer_01.pdb
+c:\users\bkrauska\documents\visual studio 2010\Projects\JsonSerializer_01\JsonSerializer_01\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\bkrauska\documents\visual studio 2010\Projects\JsonSerializer_01\JsonSerializer_01\obj\x86\Debug\JsonSerializer_01.exe
+c:\users\bkrauska\documents\visual studio 2010\Projects\JsonSerializer_01\JsonSerializer_01\obj\x86\Debug\JsonSerializer_01.pdb
